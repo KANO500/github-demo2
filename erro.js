@@ -1,0 +1,1 @@
+let fatalError = "ERRROOORRRR";
